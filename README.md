@@ -1,0 +1,2 @@
+sample-grails-cobertura
+=======================
