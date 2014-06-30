@@ -80,7 +80,7 @@ grails.project.dependency.resolution = {
         //compile ":handlebars-asset-pipeline:1.3.0.1"
         compile ":markdown:1.1.1"
         compile ':i18n-enums:1.0.1'
-        test ":code-coverage:2.0.3-1"
+        test ":code-coverage:2.0.3-2-SNAPSHOT"
 
     }
 }
